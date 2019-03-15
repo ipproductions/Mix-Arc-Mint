@@ -1,0 +1,13 @@
+<svg width="27" height="27" xmlns="http://www.w3.org/2000/svg">
+
+ <metadata id="metadata4201">image/svg+xml</metadata>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect transform="matrix(1, 0, 0, -1, 0, 2077.72)" opacity="0.95" fill="#2c3038" stroke-width="2" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect4713" width="27" height="26" y="2050.724383"/>
+  <rect transform="matrix(1, 0, 0, -1, 0, 2077.72)" opacity="0.95" fill="#282c33" stroke-width="2" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect4713-4" width="27" height="1" y="2076.724383"/>
+ </g>
+</svg>
